@@ -1,0 +1,6 @@
+body {
+    background-image: url('https://images.pexels.com/photos/3661193/pexels-photo-3661193.jpeg?auto=compress&cs=tinysrgb&w=600');
+    background-repeat: no-repeat;
+    background-size: cover;
+    z-index: -1
+}
